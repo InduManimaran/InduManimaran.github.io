@@ -71,6 +71,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-include-cache
 
 # Collections
 collections:
